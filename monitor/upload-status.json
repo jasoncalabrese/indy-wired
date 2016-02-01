@@ -1,4 +1,5 @@
 {
+  "device": "openaps://indy1", 
   "pump": {
     "battery": {
       "status": "normal", 
